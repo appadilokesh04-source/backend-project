@@ -1,4 +1,4 @@
-**BabaFly Backend API:**A production-ready E-Commerce Backend System built with FastAPI, PostgreSQL, and SQLAlchemy.
+**BabaFly Backend API:** A production-ready E-Commerce Backend System built with FastAPI, PostgreSQL, and SQLAlchemy.
 This backend powers the BabaFly platform with secure authentication, product management, categories, orders, filtering, sorting, and role-based access control.
 
 **Tech Stack:**
